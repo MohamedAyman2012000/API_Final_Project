@@ -1,0 +1,14 @@
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\bin\Debug\net9.0\Final_API.DAL.deps.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\bin\Debug\net9.0\Final_API.DAL.runtimeconfig.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\bin\Debug\net9.0\Final_API.DAL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\bin\Debug\net9.0\Final_API.DAL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.csproj.AssemblyReference.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.AssemblyInfoInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.AssemblyInfo.cs
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.csproj.CoreCompileInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\refint\Final_API.DAL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\Final_API.DAL.genruntimeconfig.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\FInal_API.DAL\obj\Debug\net9.0\ref\Final_API.DAL.dll

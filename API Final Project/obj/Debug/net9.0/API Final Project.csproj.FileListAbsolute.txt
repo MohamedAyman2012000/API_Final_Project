@@ -1,0 +1,176 @@
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\appsettings.Development.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\appsettings.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.staticwebassets.endpoints.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.exe
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.deps.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.runtimeconfig.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\API Final Project.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.csproj.AssemblyReference.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.AssemblyInfoInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.AssemblyInfo.cs
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.csproj.CoreCompileInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.MvcApplicationPartsAssemblyInfo.cs
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.MvcApplicationPartsAssemblyInfo.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\scopedcss\bundle\API Final Project.styles.css
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets.build.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets.development.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets\msbuild.API Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets\msbuild.API Final Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets\msbuild.build.API Final Project.props
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.API Final Project.props
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.API Final Project.props
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets.pack.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Fina.3107199E.Up2Date
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\refint\API Final Project.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\API Final Project.genruntimeconfig.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\obj\Debug\net9.0\ref\API Final Project.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Azure.Core.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Azure.Identity.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Humanizer.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Mono.TextTemplating.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.ClientModel.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.CodeDom.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Composition.Convention.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Composition.Hosting.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Composition.Runtime.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Drawing.Common.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Formats.Asn1.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Memory.Data.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Runtime.Caching.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Security.Permissions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Text.Json.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\System.Windows.Extensions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Final_API.BL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Final_API.DAL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Final_API.BL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\API Final Project\bin\Debug\net9.0\Final_API.DAL.pdb

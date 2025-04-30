@@ -1,0 +1,15 @@
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\bin\Debug\net9.0\Final_API.BL.deps.json
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\bin\Debug\net9.0\Final_API.BL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\bin\Debug\net9.0\Final_API.BL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\bin\Debug\net9.0\Final_API.DAL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\bin\Debug\net9.0\Final_API.DAL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.csproj.AssemblyReference.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.AssemblyInfoInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.AssemblyInfo.cs
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.csproj.CoreCompileInputs.cache
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_AP.EB4398D9.Up2Date
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\refint\Final_API.BL.dll
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\Final_API.BL.pdb
+H:\My ITI\ASP.NET API & MVC\API Final Project\Final_API.BL\obj\Debug\net9.0\ref\Final_API.BL.dll
